@@ -105,11 +105,11 @@ def deploy_firefox(status_queue, browser_params, manager_params,
         fo.set_preference("general.useragent.override",
                           profile_settings['ua_string'])
 
-    if browser_params['headless']:
-        display = Display(visible=0, size=profile_settings['screen_res'])
-        display.start()
-        display_pid = display.pid
-        display_port = display.cmd_param[-1][1:]
+    # if browser_params['headless']:
+    #     display = Display(visible=0, size=profile_settings['screen_res'])
+    #     display.start()
+    #     display_pid = display.pid
+    #     display_port = display.cmd_param[-1][1:]
     status_queue.put(('STATUS', 'Display', (display_pid, display_port)))
 
     # Write extension configuration
