@@ -92,13 +92,13 @@ if run:
         # openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8090" + " " + folderNames[10]
         # openWPM_8090 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
-        try:
-            openWPM_8080.wait(100)
-            mitm_8080.terminate()
-        except:
-            print("Timeout Expired")
-            openWPM_8080.terminate()
-            mitm_8080.terminate()
+        # try:
+        #     openWPM_8080.wait(100)
+        #     mitm_8080.terminate()
+        # except:
+        #     print("Timeout Expired")
+        #     openWPM_8080.terminate()
+        #     mitm_8080.terminate()
         # try:
         #     openWPM_8081.wait(100)
         #     mitm_8081.terminate()
