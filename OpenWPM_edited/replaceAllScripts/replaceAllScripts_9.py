@@ -8,9 +8,9 @@ from os import path
 
 # 11 folders
 folderNames = ["beautifyTools","clos_comp/simple","clos_comp/advanced","draftlogic","jfogs","js_obfus","obfus_io/default","obfus_io/high","obfus_io/low","obfus_io/medium","original"]
-JsonDir = "/Users/rayngan/Desktop/FPResearch/fp-obfuscation/scripts/obfuscated"
+JsonDir = "/home/c2/Documents/rayngan/fp-obfuscation/scripts/obfuscated/"
 JsonFileName = "new_fingerprinting_domains.json"
-ScriptsDir = "/Users/rayngan/Desktop/FPResearch/fp-obfuscation/scripts/obfuscated"
+ScriptsDir = "/home/c2/Documents/rayngan/fp-obfuscation/scripts/obfuscated/"
 JsonPath = os.path.join(JsonDir, JsonFileName)
 # a dictionary used for detecting the script url, also finding corresponding file by hash
 scriptURLToHash = {}
