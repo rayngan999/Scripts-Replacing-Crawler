@@ -95,8 +95,9 @@ if run:
         try:
             openWPM_8080.wait(100)
             mitm_8080.terminate()
-        except:
-            print("Timeout Expired")
+       
+        except Exception as e: 
+            print(e)
             openWPM_8080.terminate()
             mitm_8080.terminate()
         # try:
