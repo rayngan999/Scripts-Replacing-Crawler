@@ -1,0 +1,100 @@
+1 top:https://idp.realcomp.safemls.net/idp/Authn/UserPassword script:https://collector.safemls.net/LoginId/1565247821120?trxId=fa4203bb2bfcb2603577b5c29523f31e575607ce&deviceId=2941e73a23b87e9df53e92b7aebaa23f5d000798&systemName=realcomp&toc=1565247821120
+bf3361588e7aa61968ce4354ba7c4c88
+2 top:https://www.habitat.co.uk/ script:https://d1af033869koo7.cloudfront.net/psp/platform/247px.js
+1e695b1b0b284ac14b36b320f53e2787
+3 top:https://primpogoda.ru/ script:https://sealine.pro/js/network.js?201810041218
+e58facd107f1ccd15cba05df00cc5b46
+4 top:https://www.streamtajm.com/ script:https://dgw7ae5vrovs7.cloudfront.net/SZXl6aHhaDRMMRVJMTF9LUg%3D%3D
+412cb1763251fa38ae238e4ef0877174
+5 top:https://www.trip.com/ script:https://webresource.english.ctrip.com/code/ubt/_bfa.min.js?v=20195_22.js
+d76c613c3cb7515ad5827e641d66ee52
+6 top:https://imweb.me/ script:https://sdk.bigin.io/v1/bigin.sdk.js
+395a73604cffbf1d91f09227b9a1a804
+7 top:https://www.tienphong.vn/ script:https://www.tienphong.vn/
+11613cdaf9858f5dc7257fc79094d7ad
+8 top:https://www.airvistara.com/trip/ script:https://book.airvistara.com/UKtbxeduuzasbxzfxswtubdruyvd.js
+df5dab6619f0becba8f44f0c4d62ea4b
+9 top:http://www.javazx.com/forum.php script:http://cdn.dingxiang-inc.com/ctu-group/constid-js/index.js?_t=434834
+79faa8e4318b473ee36de89bcc4907c1
+10 top:https://www.us-passport-service-guide.com/ script:https://pxlclnmdecom-a.akamaihd.net/javascripts/browserfp.min.js?templateId=3&customerId=8CUGV1Q39
+910d23748b5c1d02df709b4fbd2318c5
+11 top:https://www.coppel.com/ script:https://cdn3.coppel.com/wcsstore/AuroraStorefrontAssetStore/javascript/sync.min-b105.js
+a4cf522819cf7e9cf56407d825ce6802
+12 top:https://www.bhphotovideo.com/ script:https://www.bhphotovideo.com/otohphnbwwweztfuewuyqdesbedeqvvzfdfrtzrdstu.js
+1c03c0132b0ac4f26df0428f7678d9c7
+13 top:https://wikea.world.tmall.com/ script:https://af.alicdn.com/AWSC/uab/119.js?d=10
+b0c56d4b8e77c5879cc3e76337ce07df
+14 top:https://sex3.com/ script:https://api.he7ll.com/api/js/ec-v1.js
+080c86903b4a164138ac0dc3d1f20cef
+15 top:https://ita.gov.om/ script:https://ita.gov.om/TSPD/08d372d856ab20009a61745d192f4bc518b8df652a488ef848d8bd297e35226f0e5d2c19d870537f?type=8
+6bee21810a9aa37c89cf9e4754788d70
+16 top:https://www.porntv.com/ script:https://a.montwam.top/static?r=13590529&id=669&pid=18&sid=36&tid=1&w=300&h=250
+ff97c942dba9fd7caa17b9185190f6f1
+17 top:https://stream.to/ script:https://www.bullads.net/get/8SuEkhia.js#ns=bullads
+d480582f20f813c2db0e9c74f14b78d5
+18 top:https://www.honest.com/ script:https://www.honest.com/h2_assets/h2_app.3a128b5912a4ba0ec7ce4f16b2435395193e8b92.js
+82d99c83e9993ae543556757785f851a
+19 top:https://replaytvstreaming.com/ script:https://efully.info/c/Dr9l6/b.2y5slrSBWNQd9dM/zHYv2xMEzBUjwqN/Sb0DzaNcjTYjzQNzjQALx-
+424121498ff4c1e15e16ca6ec5c6fade
+20 top:https://newepisodes.co/ script:https://d31mxuhvwrofft.cloudfront.net/?huxmd=779723
+5e8fe869b12e0272db4df2d1d81f6448
+21 top:https://www.yskplus.com/ script:https://www25c1.53kf.com/min/?g=.js?newkh_2019080501
+3b7ff04cd1386f6a5d6b942bfc9d3da9
+22 top:https://www.officesupply.com/ script:https://de2wfhoo6xqi5.cloudfront.net/assets/db7890d51f/assets/5.js
+20973292cf094f4b6c53f00aa6b95e45
+23 top:http://www.equibase.com/ script:http://www.equibase.com/hjszubzuoovrahpd.js
+e18414cb607e7760f5eae61ecefac5ef
+24 top:https://www.mouser.de/ script:https://www.mouser.de/msryswwbqtxebuxf.js
+e328f4326a38f4a5b43ba8da2092a4b1
+25 top:https://www.turkishairlines.com/ script:https://www.turkishairlines.com/akam/11/156a6533
+9554b4cf7dc323f80bf90c53348c5153
+26 top:https://ruggable.com/ script:https://ruggable.com/
+8eabd68d6b3ec7b03a3105913df5dac4
+27 top:https://lipsum.com/ script:https://js.ad-score.com/score.min.js?pid=1000343&tt=g#tid=DFP_JS&l1=/15188745/Lipsum-Unit1&l2=lipsum.com&l3=https://lipsum.com/&phfl=l6&uip=%%USER_IP%%&pub_domain=https://lipsum.com/&ref=https://lipsum.com/&cb=801414919
+d01cc28f5d73ea83362bf8c6b05ec4ed
+28 top:https://libertycity.ru/ script:https://libertycity.ru/engine/classes/min/index.php?charset=utf-8&g=main1&50
+ffa7b8c9f8cecc2b3d8c77bfdc11004c
+29 top:http://www.movieloverz.org/ script:http://d3al52d8cojds7.cloudfront.net/?cdlad=664259
+abff86061de7115dd234be363c9f1a7c
+30 top:https://www.ocado.com/webshop/startWebshop.do script:https://fyrsbckgi-c.global.ssl.fastly.net/FOC23KH42YH.js
+4af4d19870f9f09c5c80e348196954d9
+31 top:https://www.cosmopolitan.de/ script:https://www.tipser.com/widget/shoppingCart.html?v=30&primaryColor=%23ff1ea4&defaultLang=de
+8ce91fd187b84cd53f9993dee7f2944d
+32 top:https://coindeal.com/ script:https://cdn.firecrux.com/js/fc-core.js
+a6ef892cd914a6d2145077496116c184
+33 top:https://www.lesaffaires.com/ script:https://rdc.m32.media/m32pixel.min.js
+eeb62662f73ec89f41aa3a0e72c39cb9
+34 top:https://www.celcom.com.my/ script:https://www.celcom.com.my/
+b4fedb1c9d654e7b8f6847893cafd4fb
+35 top:https://www.perksatwork.com/login script:https://www.perksatwork.com/akam/11/34d30dba
+233bc1bb067dec92e793dd7f19c69ac8
+36 top:https://redmart.lazada.sg/#home script:https://laz-g-cdn.alicdn.com/lzdmod/im/5.0.68/index.js
+715e9f753d5357bb5c66fc9545891e53
+37 top:https://www.jd.hk/ script:https://cscssl.jd.com/joya.js
+7b9474ea9e8dcff54500c5be033327dc
+38 top:https://www.optus.com.au/ script:https://www.optus.com.au/akam/11/3d607f91
+4f69b7b8ffcfa901e62a6a712e5d8d60
+39 top:http://dataguru.cn/ script:http://dataguru.cn/static/js/fingerprint.js
+ce9254993fa77b847372453e87896a0d
+40 top:https://www.logistics.dhl/us-en/home.html?locale=true script:https://www.logistics.dhl/akam/11/3adfc240
+baec014338600bca5b35fb28ba5b83d6
+41 top:https://www.crisisgroup.org/ script:https://www.crisisgroup.org/sites/all/themes/custom/icg/js/vendor/modernizr.min.js?pvx16j
+43d23f2fc4e97aec320f51206a7ecba6
+42 top:https://freepornhdonlinegay.com/ script:https://olmsoneenh.info/c/Dj9.6sb/2T5VlSSWWhQn9/MlzfY/0NO/TskK4/NPSy0VzhN/jKUnwWMlD/UuxT
+14b68dc2fe001af8556f9fe3c4f839d8
+43 top:https://www.teepublic.com/ script:https://www.teepublic.com/binfgkxpxaizujgk.js
+36c4354f6a1b8ec51cb6a3466dfa1d9d
+44 top:https://divxfilmeonline.org/ script:https://d63a3au5lqmtu.cloudfront.net/?luaad=778409
+6415017234d8deb8d7f28284f2c2c75a
+45 top:https://www.capitaland.com/international/en.html script:https://www.capitaland.com/etc/designs/capitaland/clientlib-site-head.1db8070ff14d1cae2831b8012101e72e.js
+bfcc32dd783cfd2dff949a35a15f2026
+46 top:https://www.erstebank.hu/hu/ebh-nyito script:https://www.erstebank.hu/TSPD/088aaa5d9cab20007a44cc105e6dc0396d9ee6384acd6c6fccf622f7163d5d8b1e2a8ca19717f3a1?type=8
+e664192e53f5c014d1899234855be38c
+47 top:https://www.html.it/ script:https://codicebusiness.shinystat.com/cgi-bin/getcod.cgi?NODW=yes&USER=TRO-htmlit&PAG=https%3A%2F%2Fwww.html.it%2F
+0437a7126ea0595521d8c1d7e23f734f
+48 top:https://enabiz.gov.tr/ script:https://enabiz.gov.tr/TSPD/08a1e8dd33ab2000997e5ee3ef4a2ba3120cae940752be0d1a04a85ba6da1f31f51e7a05faa5d714?type=8
+abaef267706799a34490a3b2898de02e
+49 top:https://www.plemiona.pl/ script:https://www.plemiona.pl/
+0c025744c23fa06d54cdd2f4b89d618b
+50 top:https://www.similarsites.com/ script:https://www.similarsites.com/smlrdstil.js
+6187b1b45b4a9ce2f2179f1e8fae8421

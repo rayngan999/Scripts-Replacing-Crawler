@@ -1,0 +1,9 @@
+(dp1
+S'screen_res'
+p2
+(I1920
+I1204
+tp3
+sS'ua_string'
+p4
+Ns.
