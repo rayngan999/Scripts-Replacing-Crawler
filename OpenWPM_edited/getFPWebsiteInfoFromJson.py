@@ -7,7 +7,7 @@ def website_url(index):
     print(index)
     sites = set()
 
-    jsonLocation = "/Users/rayngan/Desktop/FPResearch/fp-obfuscation/scripts/obfuscated/new_fingerprinting_domains.json"
+    jsonLocation = "/home/c2/Documents/rayngan/fp-obfuscation/scripts/obfuscated/new_fingerprinting_domains.json"
     f = open(jsonLocation, "r")
 
     data = json.loads(f.read())
