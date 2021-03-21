@@ -17,14 +17,14 @@ restart = False
 
 if restart:
     for folders in folderNames:
-        sqlDir = "/Users/rayngan/openWPM_data/" + folders
+        sqlDir = "/home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_data/" + folders
         shutil.rmtree(sqlDir)
         if(os.path.isdir(sqlDir)):
             continue
         os.mkdir(sqlDir)
 else:
     for folders in folderNames:
-        sqlDir = "/Users/rayngan/openWPM_data/"
+        sqlDir = "/home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_data/"
         path = os.path.join(sqlDir, folders)
         if(os.path.isdir(path)):
             continue
@@ -33,64 +33,64 @@ else:
 done = False
 run = True
 if run:
-    for i in range(466,296400):
+    for i in range(848,296400):
         scriptIndex = i + 1
         
         f = open(os.path.join(os.getcwd(), "counter.txt"), "w")
         f.write(str(scriptIndex))
         replaceFile = "./replaceAllScripts/replaceAllScripts_1.py"
         mitm_8080 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8080', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8080" + " " + folderNames[0]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8080" + " " + folderNames[0]
         openWPM_8080 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_2.py"
         mitm_8081 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8081', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8081" + " " + folderNames[1]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8081" + " " + folderNames[1]
         openWPM_8081 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_3.py"
         mitm_8082 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8082', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8082" + " " + folderNames[2]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8082" + " " + folderNames[2]
         openWPM_8082 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
         
         replaceFile = "./replaceAllScripts/replaceAllScripts_4.py"
         mitm_8083 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8083', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8083" + " " + folderNames[3]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8083" + " " + folderNames[3]
         openWPM_8083 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_5.py"
         mitm_8084 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8084', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8084" + " " + folderNames[4]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8084" + " " + folderNames[4]
         openWPM_8084 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_6.py"
         mitm_8085 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8085', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8085" + " " + folderNames[5]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8085" + " " + folderNames[5]
         openWPM_8085 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_7.py"
         mitm_8086 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8086', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8086" + " " + folderNames[6]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8086" + " " + folderNames[6]
         openWPM_8086 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_8.py"
         mitm_8087 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8087', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8087" + " " + folderNames[7]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8087" + " " + folderNames[7]
         openWPM_8087 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
         
         replaceFile = "./replaceAllScripts/replaceAllScripts_9.py"
         mitm_8088 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8088', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8088" + " " + folderNames[8]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8088" + " " + folderNames[8]
         openWPM_8088 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_10.py"
         mitm_8089 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8089', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8089" + " " + folderNames[9]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8089" + " " + folderNames[9]
         openWPM_8089 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         replaceFile = "./replaceAllScripts/replaceAllScripts_11.py"
         mitm_8090 = subprocess.Popen(f'mitmdump -s {replaceFile}  --listen-port 8090', close_fds=True, shell=True)
-        openWPMCommand = "python2 /Users/rayngan/Desktop/FPResearch/OpenWPM/demo.py" + " " + str(scriptIndex) + " " + "8090" + " " + folderNames[10]
+        openWPMCommand = "python2 /home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_edited/demo.py" + " " + str(scriptIndex) + " " + "8090" + " " + folderNames[10]
         openWPM_8090 = subprocess.Popen(openWPMCommand, close_fds=True, shell=True)
 
         try:
