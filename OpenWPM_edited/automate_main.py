@@ -33,7 +33,7 @@ else:
 done = False
 run = True
 if run:
-    for i in range(848,296400):
+    for i in range(848,849):
         scriptIndex = i + 1
         
         f = open(os.path.join(os.getcwd(), "counter.txt"), "w")
