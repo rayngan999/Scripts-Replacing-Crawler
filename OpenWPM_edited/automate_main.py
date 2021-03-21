@@ -17,14 +17,14 @@ restart = False
 
 if restart:
     for folders in folderNames:
-        sqlDir = "/home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_data/" + folders
+        sqlDir = "/home/c2/Documents/rayngan/Scripts-Replacing-Crawler/openWPM_data/" + folders
         shutil.rmtree(sqlDir)
         if(os.path.isdir(sqlDir)):
             continue
         os.mkdir(sqlDir)
 else:
     for folders in folderNames:
-        sqlDir = "/home/c2/Documents/rayngan/Scripts-Replacing-Crawler/OpenWPM_data/"
+        sqlDir = "/home/c2/Documents/rayngan/Scripts-Replacing-Crawler/openWPM_data/"
         path = os.path.join(sqlDir, folders)
         if(os.path.isdir(path)):
             continue
